@@ -8,7 +8,7 @@ BinarySearchTreee.java - A BST making use of Java Generics and including many de
 *Java, OOP, Generics, Searching*
 
 Sieve.c - Implementation of the Sieve of Eratosthenes for returning an array of prime numbers < N (some number provided by the user) using 
-multi_threading capabilities to increase performance. 
+multi_threading capabilities to increase performance.   
 *C, MPI, Multi-threading, Parallel Execution, Algorithms* 
 
 JobUpdater.js - A small JavaScript webservice (executed via 3rd party job scheduler) written to manage the live-data records stored in a 
