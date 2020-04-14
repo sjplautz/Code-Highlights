@@ -4,7 +4,7 @@ A collection of source code that highlights my technical experience in a variety
 QuickSort.java - Standard Quicksort implemented using Java Generics.    
 *Java, Recursion, Generics, Sorting*
 
-BinarySearchTreee.java - A BST making use of Java Generics and including many desirable BST manipulation methods.    
+BinarySearchTree.java - A BST making use of Java Generics and including many desirable BST manipulation methods.    
 *Java, OOP, Generics, Searching*
 
 Sieve.c - Implementation of the Sieve of Eratosthenes for returning an array of prime numbers < N (some number provided by the user) using 
